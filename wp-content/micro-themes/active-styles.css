@@ -1,0 +1,10 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Content entry title **/
+#content .entry-title {
+	display: none !important;
+}
+
